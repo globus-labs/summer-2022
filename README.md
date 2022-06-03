@@ -1,6 +1,23 @@
 # Summer 2022 Student Repo
 This repository is for our summer students to create a page about themselves and what they've worked on this summer.
 
+## Getting started
+1. First, you'll need to get set up with Ruby and Jekyll:
+- [MacOS](https://jekyllrb.com/docs/installation/macos/)
+- [Windows](https://jekyllrb.com/docs/installation/windows/)
+- [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
+- [Other Linux](https://jekyllrb.com/docs/installation/other-linux/)
+
+2. Then you'll need to [clone this repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+3. Navigate into the directory of this repo and run `bundle install`
+
+## Running the app
+You can run the app by navigating into the directory of the repo and running `bundle exec jekyll s`.
+
+## Theme
+We're using the theme [What A Theme](https://github.com/thedevslot/WhatATheme) created by [TheDevsLot](https://twitter.com/thedevslot). Read and look through the repo to understand how to use this theme.
+
+
 ## How to contribute
 We follow a [Pull Request workflow](https://medium.com/@urna.hybesis/pull-request-workflow-with-git-6-steps-guide-3858e30b5fa4), which is commonly used in open source projects as well as in industry. To contribute to this repo, follow these steps:
 
