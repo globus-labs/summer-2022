@@ -29,7 +29,7 @@ We follow a [Pull Request workflow](https://medium.com/@urna.hybesis/pull-reques
 6.  Once all feedback has been addressed, Ari or KJ will merge your branch into `main`.
 
 ## Additional resources for contributing using Git and GitHub
-[Guide to Git](https://git-scm.com/book/en/v2)
-[Git tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-[How to write a good commit message](https://cbea.ms/git-commit/)
-[How to use GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+- [Guide to Git](https://git-scm.com/book/en/v2)
+- [Git tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+- [How to write a good commit message](https://cbea.ms/git-commit/)
+- [How to use GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
