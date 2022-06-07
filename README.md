@@ -4,9 +4,9 @@ This repository is for our summer students to create a page about themselves and
 ## Getting started
 1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 2. Create a branch to work on (and switch onto it)
-3. Open template.html in your code editor (it may open automatically in your broswer at first, so just specify your text editor when opening)
-4. Save As `your-name.html`
-5. Fill in `your-name.html` with your interests and goals for the summer. Use Bootstrap to style your page. Try your best not to use any custom CSS.
+3. Open `students/template.html` in your code editor (it may open automatically in your broswer at first, so just specify your text editor when opening)
+4. Save As `your-name.html` in the `students` directory
+5. Fill in `your-name.html` with a small bio, along with your interests and goals for the summer. Use Bootstrap to style your page. See if you can add some [components](https://getbootstrap.com/docs/5.1/components/accordion/) that make sense and look good! Try your best not to use any custom CSS.
 
 ## Tech we're using
 We're using html and CSS for this website. We're also using the CSS framework [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/).
