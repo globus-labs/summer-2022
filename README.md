@@ -2,7 +2,7 @@
 This repository is for our summer students to create a page about themselves and what they've worked on this summer.
 
 ## Getting started
-1. Clone this repository
+1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 2. Create a branch to work on (and switch onto it)
 3. Open template.html in your code editor (it may open automatically in your broswer at first, so just specify your text editor when opening)
 4. Save As `your-name.html`
