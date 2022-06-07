@@ -4,15 +4,17 @@ This repository is for our summer students to create a page about themselves and
 ## Getting started
 1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 2. Create a branch to work on (and switch onto it)
-3. Open `students/template.html` in your code editor (it may open automatically in your broswer at first, so just specify your text editor when opening)
+3. Open `students/template.html` in your code editor (it may open automatically in your browser at first, so just specify your text editor when opening)
 4. Save As `your-name.html` in the `students` directory
 5. Fill in `your-name.html` with a small bio, along with your interests and goals for the summer. Use Bootstrap to style your page. See if you can add some [components](https://getbootstrap.com/docs/5.1/components/accordion/) that make sense and look good! Try your best not to use any custom CSS.
+
+** You will be editing your page throughout the summer with the what you're working on, so feel free to use this first draft as an opportunity to learn Bootstrap and play around with different components. It's okay if this first draft looks a little silly!
 
 ## Tech we're using
 We're using html and CSS for this website. We're also using the CSS framework [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/).
 Bootstrap is an open-source CSS framework used for responsive, mobile-first front-end web development. It provides HTML, CSS, and JavaScript-based design templates for typography, forms, buttons, navigation, and other UI components. It's super useful to be familiar with how to use it. You can apply this to your personal or school projects to give them a professional looking UI.
 
-To use Bootstrap affectively, you'll need to understand 2 key components:
+To use Bootstrap effectively, you'll need to understand 2 key components:
 - [Grid structure](https://getbootstrap.com/docs/5.0/layout/grid/)
 - Styling using classes (such as [text color](https://getbootstrap.com/docs/5.0/utilities/colors/) and [margin and padding](https://getbootstrap.com/docs/5.0/utilities/spacing/))
 
