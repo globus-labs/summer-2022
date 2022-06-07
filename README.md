@@ -2,21 +2,21 @@
 This repository is for our summer students to create a page about themselves and what they've worked on this summer.
 
 ## Getting started
-1. First, you'll need to get set up with Ruby and Jekyll:
-- [MacOS](https://jekyllrb.com/docs/installation/macos/)
-- [Windows](https://jekyllrb.com/docs/installation/windows/)
-- [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
-- [Other Linux](https://jekyllrb.com/docs/installation/other-linux/)
+1. Clone this repository
+2. Create a branch to work on (and switch onto it)
+3. Open template.html in your code editor (it may open automatically in your broswer at first, so just specify your text editor when opening)
+4. Save As `your-name.html`
+5. Fill in `your-name.html` with your interests and goals for the summer. Use Bootstrap to style your page. Try your best not to use any custom CSS.
 
-2. Then you'll need to [clone this repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
-3. Navigate into the directory of this repo and run `bundle install`
+## Tech we're using
+We're using html and CSS for this website. We're also using the CSS framework [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/).
+Bootstrap is an open-source CSS framework used for responsive, mobile-first front-end web development. It provides HTML, CSS, and JavaScript-based design templates for typography, forms, buttons, navigation, and other UI components. It's super useful to be familiar with how to use it. You can apply this to your personal or school projects to give them a professional looking UI.
 
-## Running the app
-You can run the app by navigating into the directory of the repo and running `bundle exec jekyll s`.
+To use Bootstrap affectively, you'll need to understand 2 key components:
+- [Grid structure](https://getbootstrap.com/docs/5.0/layout/grid/)
+- Styling using classes (such as [text color](https://getbootstrap.com/docs/5.0/utilities/colors/) and [margin and padding](https://getbootstrap.com/docs/5.0/utilities/spacing/))
 
-## Theme
-We're using the theme [What A Theme](https://github.com/thedevslot/WhatATheme) created by [TheDevsLot](https://twitter.com/thedevslot). Read and look through the repo to understand how to use this theme.
-
+[This article](https://www.toptal.com/front-end/what-is-bootstrap-a-short-tutorial-on-the-what-why-and-how) is a nice overview of Bootstrap. It's a few years old though, so the code may be a bit dated. It's still nice for the overall concept!
 
 ## How to contribute
 We follow a [Pull Request workflow](https://medium.com/@urna.hybesis/pull-request-workflow-with-git-6-steps-guide-3858e30b5fa4), which is commonly used in open source projects as well as in industry. To contribute to this repo, follow these steps:
