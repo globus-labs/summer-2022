@@ -1,5 +1,7 @@
 # Summer 2022 Student Repo
-This repository is for our summer students to create a page about themselves and what they've worked on this summer.
+This repository is for our summer students to create a webpage about themselves and what they've worked on this summer.
+
+The rendered website is accessible [here](https://labs.globus.org/summer-2022/students/student-list.html). 
 
 ## Getting started
 1. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
