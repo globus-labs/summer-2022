@@ -1,0 +1,119 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+.circle-1 {
+    position: absolute;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background-color: #0d6efd;
+    opacity: 25%;
+    top: 30rem;
+    left: -3rem;
+    z-index: -100;
+}
+.circle-2 {
+    position: absolute;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    background-color: #0d6efd;
+    opacity: 25%;
+    top: -3rem;
+    right: -3rem;
+    z-index: -100;
+}
+
+.circle-3 {
+    position: absolute;
+    width: 11rem;
+    height: 11rem;
+    border-radius: 50%;
+    background-color: #0d6efd;
+    opacity: 25%;
+    top: 8rem;
+    left: 13rem;
+    z-index: -100;
+}
+
+.circle-4 {
+    position: absolute;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    background-color: #0d6efd;
+    opacity: 25%;
+    top: 24rem;
+    left: 45rem;
+    z-index: -100;
+}
+
+.sub-circle-1 {
+    position: absolute;
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+    background-color: #0d6efd;
+    opacity: 25%;
+    top: 40rem;
+    left: 83rem;
+    z-index: -100;
+}
+
+.sub-circle-2 {
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background-color: #0d6efd;
+    opacity: 25%;
+    top: 13rem;
+    left: 53rem;
+    z-index: -100;
+}
+
+.sub-circle-3 {
+    position: absolute;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background-color: #0d6efd;
+    opacity: 25%;
+    top: 25rem;
+    left: 78rem;
+    z-index: -100;
+}
+
+.sub-circle-4 {
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    background-color: #0d6efd;
+    opacity: 25%;
+    top: 22rem;
+    left: 3rem;
+    z-index: -100;
+}
+
+.left-arrow {
+    position: absolute;
+    top: 3.5rem; 
+}
+
+.right-arrow {
+    position: absolute;
+    top: 3.5rem; 
+    right: 0;
+    border-radius: 50%;
+}
+
+#light-arrow {
+    transition: visibility 0.2s, opacity 0.2s linear;
+}
+
+.back-container:hover #light-arrow,
+.forward-container:hover #light-arrow
+{
+    visibility: none;
+    opacity: 0;
+}
