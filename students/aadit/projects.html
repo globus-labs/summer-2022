@@ -3,7 +3,7 @@
 
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="refresh" content="5; URL=./" />
+  <!-- <meta http-equiv="refresh" content="5; URL=./" /> -->
   <link rel="stylesheet" href="../../bootstrap-5.0.2-dist/bootstrap.min.css">
   <link rel="stylesheet" href="./style.css">
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
@@ -32,10 +32,35 @@
   </nav>
   <!-- end of nav bar -->
   <!-- Start your page here -->
-  <div class="row mx-auto col-8 mt-4">
-    <h1 class="text-center">Projects</h1>
-    <h3 class="text-center text-primary">Coming Soon!</h3>
-    <p class="text-center text-muted">Rerouting to Main Page</p>
+  <div class="row mx-auto col-9 mt-4">
+    <h1 class="text-center mb-1">Projects</h1>
+    <div id="IW-Project">
+      <h3 class="text-center text-primary">Impactful Weather</h3>
+      <div class="text-center">
+        <p class="fw-bold mb-0"><a href="https://github.com/LAGER-Colab/impactful-weather" target="_blank" rel="noopener noreferrer"> Impactful Weather</a> is a research project aimed and downsampling the resolution of coarse precipitation data utilizing ML concepts.</p>
+        <p>Precipitation impacts society on a very granular scale, often changing with just 100 meters of distance.
+          However, attaining precipitation data (which is useful for forecasting tropical cyclones, monitoring humidity, 
+          monitoring flood and dought conditions, and other important fields) can be a challenge, especially at such a detailed level.
+          Modern statistical and dynamic downscalling methods are either to coarse or too computationally expensive
+          to use practically. However, Machine Learning methods can accurately downscale coarse data, while simultaneously providing rapid compute times.
+        </p>
+        <p class="mb-0"><b>Concepts Used:</b> Deep Learning, CNNs, Data Augmentation, MultiThreading</p>
+        <p><b>Technologies Used:</b> Python, Tensorflow, Keras, Torch, AWS</p>
+      </div>
+    </div>
+    <div id="BubbleAI-Project">
+      <h3 class="text-center text-primary">Catalyst Bubble Detection</h3>
+      <div class="text-center">
+        <p class="fw-bold mb-0">The Catalyst Bubble Detection project aims to use ML to detect bubbles in high-throughput microscope images of catalyst surfaces.</p>
+        <p>
+          Detecting bubbles from a catalyst surface to determine reaction rate allows for the determination of highly reactive surfaces. 
+          Statistical methods, like Hough Circle Transformations, prove to be inaccurate, and manually labeling data takes far too long.
+          Deep Learning architectures, like Faster-RCNN and Mask-RCNN can be used to speed up inference while boosting accuracy.
+        </p>
+        <p class="mb-0"><b>Concepts Used:</b> Deep Learning, RCNNs, Heavy Data Augmentation, Hyper-Parameter Optimization</p>
+        <p><b>Technologies Used:</b> Python, PyTorch, TIMM, ACLF Theta</p>
+      </div>
+    </div>
     <div>
       <h3 class="text-muted">Navigation</h3>
 
